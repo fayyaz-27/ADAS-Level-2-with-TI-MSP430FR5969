@@ -17,3 +17,5 @@ It demonstrates three key ADAS features implemented at a prototype scale:
 - **Power Supply** - battery-powered prototype car chassis  
 
 ---
+
+📺 Check out the full demo video on LinkedIn: [Watch the ADAS Level 2 Prototype in Action](https://www.linkedin.com/posts/fayyaz-shaikh-7646312a3_ti-texasinstruments-adas-activity-7368398215580123136-JQDW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk99fwB58_IPLjVVbVbfRhOEgBW1dO-5fM)
